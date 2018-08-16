@@ -117,6 +117,7 @@
 @media (max-width: 480px) {
 	.intro_header {
 		line-height: 1em;
+		font-size: 3em;
 	}
 	.wrap_form {
 		border-radius: 0px;
